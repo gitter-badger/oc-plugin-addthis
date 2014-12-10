@@ -1,0 +1,7 @@
+fields:
+  pubid:
+    comment: axc.addthis::lang.settings.fields.pubid.comment
+    label: axc.addthis::lang.settings.fields.pubid.label
+    placeholder: axc.addthis::lang.settings.fields.pubid.placeholder
+    required: true
+    span: left
