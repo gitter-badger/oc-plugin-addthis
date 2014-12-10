@@ -3,7 +3,7 @@
 	"description": "AddThis (http://www.addthis.com) Plugin for OctoberCMS",
 	"type": "library",
 	"keywords": ["october", "cms", "plugin", "axc", "addthis", "web", "tracking"],
-	"homepage": "https://www.alexcarrega.com/p/oc-plugin-addthis",
+	"homepage": "http://www.alexcarrega.com/p/oc-plugin-addthis",
 	"license": "Apache-2.0",
 	"authors": [
 		{
@@ -17,7 +17,7 @@
 		"email": "support-oc-plugin-addthis@alexcarrega.com",
 		"issues": "https://github.com/alexcarrega/oc-plugin-addthis/issues",
 		"wiki": "https://github.com/alexcarrega/oc-plugin-addthis/wiki",
-		"forum": "@todo",
+		"forum": "http://www.alexcarrega.com/f/oc-plugin-addthis",
 		"source": "https://github.com/alexcarrega/oc-plugin-addthis/wiki"
 	},
 	"require": {
