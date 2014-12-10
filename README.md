@@ -1,4 +1,3 @@
-addthis
-=======
+# oc-plugin-addthis
 
-AddThis Plugin for OctoberCMS
+> AddThis (http://www.addthis.com) Plugin for OctoberCMS.
