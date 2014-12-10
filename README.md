@@ -1,4 +1,4 @@
 addthis
 =======
 
-AddThis plugin for OctoberCMS
+AddThis Plugin for OctoberCMS
