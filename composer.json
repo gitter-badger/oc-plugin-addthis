@@ -1,5 +1,5 @@
 {
-	"name": "axc/oc-plugin-addthis",
+	"name": "alexcarrega/oc-plugin-addthis",
 	"description": "AddThis (http://www.addthis.com) Plugin for OctoberCMS",
 	"type": "library",
 	"keywords": ["october", "cms", "plugin", "axc", "addthis", "web", "tracking"],
